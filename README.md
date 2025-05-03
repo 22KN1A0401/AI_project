@@ -1,5 +1,7 @@
+
+# AI_project
 ## Summary
-###AI_project
+
 
 Project Title: SmartWaste – An AI-Based Waste Sorting and Reduction Assistant
 
