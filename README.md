@@ -1,9 +1,9 @@
 
-### AI_project
+# AI_project
+SmartWaste – An AI-Based Waste Sorting and Reduction Assistant
 ## Summary
 
 
-Project Title: SmartWaste – An AI-Based Waste Sorting and Reduction Assistant
 
 Your Idea in a Nutshell:
 SmartWaste is an AI-powered mobile and web application that helps users correctly sort waste into recycling, compost, and landfill categories using image recognition and provides tips to reduce household waste. It leverages computer vision and machine learning to simplify sustainable living.
